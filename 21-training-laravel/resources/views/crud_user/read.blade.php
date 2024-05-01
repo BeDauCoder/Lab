@@ -61,6 +61,7 @@
                         <th>Favorite ID</th>
                         <th>Favorite Name</th>
                         <th>Favorite Description</th>
+                        <th>Action</th>
                     </tr>
                     </thead>
                     <tbody>
